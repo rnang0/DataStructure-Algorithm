@@ -1,5 +1,10 @@
 package com.embedded.heap;
 
+/**
+ * 堆接口
+ * @author rnang0
+ * @date 2020/8/16
+ **/
 public interface Heap<E> {
 
 	int size();	// 元素的数量

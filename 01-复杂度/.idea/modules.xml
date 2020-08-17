@@ -17,6 +17,7 @@
       <module fileurl="file://$PROJECT_DIR$/../12-堆/12-堆.iml" filepath="$PROJECT_DIR$/../12-堆/12-堆.iml" />
       <module fileurl="file://$PROJECT_DIR$/../13-优先队列/13-优先队列.iml" filepath="$PROJECT_DIR$/../13-优先队列/13-优先队列.iml" />
       <module fileurl="file://$PROJECT_DIR$/../14-Trie字典树/14-Trie字典树.iml" filepath="$PROJECT_DIR$/../14-Trie字典树/14-Trie字典树.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../15-二叉树的非递归遍历/15-二叉树的非递归遍历.iml" filepath="$PROJECT_DIR$/../15-二叉树的非递归遍历/15-二叉树的非递归遍历.iml" />
     </modules>
   </component>
 </project>

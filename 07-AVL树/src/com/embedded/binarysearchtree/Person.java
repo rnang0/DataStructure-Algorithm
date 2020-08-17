@@ -3,6 +3,7 @@ package com.embedded.binarysearchtree;
 import java.util.Comparator;
 
 /**
+ * Person类
  * @author rnang0
  * @date 2020/8/14
  **/
